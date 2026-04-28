@@ -1,5 +1,7 @@
 # Diagramas del Juego 3 en Raya
 
+Este documento contiene los diagramas de flujo y de clases del proyecto.
+
 ## Diagrama de Flujo del Juego
 
 ```mermaid
